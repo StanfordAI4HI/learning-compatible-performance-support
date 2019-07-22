@@ -1,0 +1,10 @@
+.DS_Store
+.ipynb_checkpoints/
+*.swp
+*.swo
+*.swn
+*.swm
+*.pyc
+data/
+plots/
+src/
